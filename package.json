@@ -1,0 +1,11 @@
+{
+  "name": "outback",
+  "version": "1.0.0",
+  "description": "Testing suite for mocking integration tests and local environments",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC"
+}
